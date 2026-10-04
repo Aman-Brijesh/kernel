@@ -1,0 +1,14 @@
+# Build output
+build/
+*.o
+*.bin
+*.elf
+*.iso
+
+# Debug / generated files
+*.log
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
